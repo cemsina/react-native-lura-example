@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "react-native-lura-example",
+    "slug": "react-native-lura-example",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "react-native-lura-example"
+}
