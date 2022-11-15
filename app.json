@@ -5,7 +5,12 @@
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "62a39a57-15d3-44a0-a41d-006eefa046e9"
+      }
+    }
   },
   "name": "react-native-lura-example"
 }
