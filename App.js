@@ -1,6 +1,6 @@
 import React from 'react';
 import { StyleSheet, View } from 'react-native';
-import { LuraPlayer } from "react-native-lura";
+import { LuraPlayer } from "lura-react-native-core-alpha";
 
 export default function App() {
   return (
